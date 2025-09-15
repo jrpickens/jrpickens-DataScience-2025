@@ -6,33 +6,33 @@ Test your knowledge! Write your answers in the spaces provided or use them as re
 
 ### 1. What command prints text in Python?
 ```python
-# Your answer:
+print()
 ```
 
 ---
 
 ### 2. Which data type is used to represent decimal numbers?
 ```python
-# Your answer:
+float
 ```
 
 ---
 
 ### 3. How do you open a notebook from GitHub into Google Colab?
 ```text
-Your answer:
+in google colab, go to open notebook and click the github tab, and paste your respository path from the web browser
 ```
 
 ---
 
 ### 4. What Python operator is used for exponentiation?
 ```python
-# Your answer:
+**
 ```
 
 ---
 
 ### 5. What is the difference between `//` and `/` in Python?
 ```text
-Your answer:
+one is floor division "//", so it returns the integer without the deciman, and the other is a regular division able to give you a decimal "/".
 ```
